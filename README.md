@@ -8,3 +8,4 @@
 - Lucas Andrade Sobreira Santos
 - Rafaela Narcizo
 - Rafael Arruda Neves
+- Thales Augusto Lima de Souza
